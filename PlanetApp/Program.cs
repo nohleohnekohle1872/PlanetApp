@@ -11,6 +11,7 @@
         public static List<List<Point>> listsWithPointsVectorRotationOnYAxis = [];
         static void Main(string[] args)
         {
+            //lalalal
             Console.CursorVisible = false;
             Console.ReadKey();
 
