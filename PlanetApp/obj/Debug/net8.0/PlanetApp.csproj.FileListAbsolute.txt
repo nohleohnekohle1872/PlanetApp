@@ -1,0 +1,14 @@
+C:\Users\StammNo\source\repos\PlanetApp\PlanetApp\bin\Debug\net8.0\PlanetApp.exe
+C:\Users\StammNo\source\repos\PlanetApp\PlanetApp\bin\Debug\net8.0\PlanetApp.deps.json
+C:\Users\StammNo\source\repos\PlanetApp\PlanetApp\bin\Debug\net8.0\PlanetApp.runtimeconfig.json
+C:\Users\StammNo\source\repos\PlanetApp\PlanetApp\bin\Debug\net8.0\PlanetApp.dll
+C:\Users\StammNo\source\repos\PlanetApp\PlanetApp\bin\Debug\net8.0\PlanetApp.pdb
+C:\Users\StammNo\source\repos\PlanetApp\PlanetApp\obj\Debug\net8.0\PlanetApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\StammNo\source\repos\PlanetApp\PlanetApp\obj\Debug\net8.0\PlanetApp.AssemblyInfoInputs.cache
+C:\Users\StammNo\source\repos\PlanetApp\PlanetApp\obj\Debug\net8.0\PlanetApp.AssemblyInfo.cs
+C:\Users\StammNo\source\repos\PlanetApp\PlanetApp\obj\Debug\net8.0\PlanetApp.csproj.CoreCompileInputs.cache
+C:\Users\StammNo\source\repos\PlanetApp\PlanetApp\obj\Debug\net8.0\PlanetApp.dll
+C:\Users\StammNo\source\repos\PlanetApp\PlanetApp\obj\Debug\net8.0\refint\PlanetApp.dll
+C:\Users\StammNo\source\repos\PlanetApp\PlanetApp\obj\Debug\net8.0\PlanetApp.pdb
+C:\Users\StammNo\source\repos\PlanetApp\PlanetApp\obj\Debug\net8.0\PlanetApp.genruntimeconfig.cache
+C:\Users\StammNo\source\repos\PlanetApp\PlanetApp\obj\Debug\net8.0\ref\PlanetApp.dll
